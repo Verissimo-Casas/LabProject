@@ -1,0 +1,27 @@
+<annotation>
+    <filename>20230303-162507.jpg</filename>
+    <folder>data</folder>
+    <source>
+        <database>data</database>
+        <annotation>custom</annotation>
+        <image>custom</image>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Cell phone</name>
+        <pose>unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>732</xmin>
+            <ymin>223</ymin>
+            <xmax>849</xmax>
+            <ymax>261</ymax>
+        </bndbox>
+    </object>
+</annotation>
